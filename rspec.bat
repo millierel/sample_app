@@ -1,1 +1,1 @@
-bundle exec f:/Ruby187/bin/ruby.exe -S f:/Ruby187/lib/ruby/gems/1.8/gems/rspec-core-2.4.0/bin/rspec --tty 'f:/cygwin/home/no name/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb'
+bundle exec f:/Ruby187/bin/ruby.exe -S f:/Ruby187/lib/ruby/gems/1.8/gems/rspec-core-2.4.0/bin/rspec --tty 'f:/cygwin/home/no name/rails_projects/sample_app/spec/controllers/'
